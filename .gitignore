@@ -4,5 +4,5 @@ blendcache_*
 *.blend2
 
 # Temporary OpenVSP files.
-#.vsptime
+*.vsptime
 *.bak

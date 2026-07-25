@@ -1,7 +1,7 @@
 # Kitty Ear Light
 
-- Download from Printables here: [`Download Link`](https://www.printables.com/@EvokeMadness_492935)
-- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/EvokeMadness/designs)
+- Download from Printables here: [`Download Link`](https://www.printables.com/model/1790995-rgb-kitty-ears)
+- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7387688)
 
 * * *
 

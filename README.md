@@ -68,3 +68,5 @@ Happy printing!
 ![](assets/preview-assembly.png)
 
 ![](assets/preview-vsp.png)
+
+![](assets/render.png)
